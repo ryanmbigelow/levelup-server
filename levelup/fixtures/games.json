@@ -1,0 +1,26 @@
+[
+  {
+    "model": "levelup.game",
+    "pk": 1,
+    "fields": {
+        "game_type": 2,
+        "title": "Curb Your Enthusiasm Cards Against Humanity",
+        "maker": "Larry David",
+        "gamer": 1,
+        "number_of_players": 10,
+        "skill_level": 5
+    }
+  },
+  {
+    "model": "levelup.game",
+    "pk": 2,
+    "fields": {
+        "game_type": 1,
+        "title": "Monopoly",
+        "maker": "The Pringles Man",
+        "gamer": 1,
+        "number_of_players": 6,
+        "skill_level": 10
+    }
+  }
+]

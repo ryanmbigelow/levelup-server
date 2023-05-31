@@ -1,0 +1,24 @@
+[
+  {
+      "model": "levelup.event",
+      "pk": 1,
+      "fields": {
+          "game": 1,
+          "description": "Everyone is Larry David tonight",
+          "date": "2023-05-30",
+          "time": "20:00",
+          "organizer": 1
+      }
+  },
+  {
+    "model": "levelup.event",
+    "pk": 2,
+    "fields": {
+        "game": 2,
+        "description": "This is going to take forever",
+        "date": "2023-05-31",
+        "time": "19:00",
+        "organizer": 1
+    }
+}
+]

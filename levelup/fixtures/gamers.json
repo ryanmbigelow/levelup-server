@@ -1,0 +1,10 @@
+[
+  {
+      "model": "levelup.gamer",
+      "pk": 1,
+      "fields": {
+          "uid": 1,
+          "bio": "Me"
+      }
+  }
+]
